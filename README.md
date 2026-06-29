@@ -2,6 +2,8 @@
 
 Software engineer with ~7 years of experience. The last 5+ have been at **CoverMyMeds** (a McKesson company), building healthcare SaaS — specialty drug enrollment, prior authorization workflows, and pharmacy integrations that help patients access the medications they need. Before that, ~2 years at **Nationwide** modernizing Personal Auto APIs.
 
+> Healthcare SaaS, end-to-end ownership, and a serious interest in how AI changes the way teams build.
+
 ## Tech I work with
 
 **Daily:** Ruby on Rails · PostgreSQL · GraphQL  
@@ -10,7 +12,7 @@ Software engineer with ~7 years of experience. The last 5+ have been at **CoverM
 
 ## What I'm building
 
-A career-management web app — Rails, PostgreSQL, and a React frontend. More soon.
+A career-management web app — Rails, PostgreSQL, and a React frontend. Currently building out the core, with LLM-assisted features up next.
 
 ## How I work
 
